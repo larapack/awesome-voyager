@@ -26,4 +26,4 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 * [Voyager Hooks](https://github.com/larapack/voyager-hooks)
 
 ## Articles and Tutorials
-* _Nothing here 😓_
+* [Laravel News's Introduction on Laravel Voyager](https://laravel-news.com/voyager)
