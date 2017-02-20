@@ -36,3 +36,4 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 
 ## Articles and Tutorials
 * [Laravel News's Introduction on Laravel Voyager](https://laravel-news.com/voyager)
+* [Setup Google Analytics for Laravel Voyager](https://webman.io/blog/post/setup-google-analytics-for-laravel-voyager)
