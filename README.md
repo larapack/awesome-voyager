@@ -25,7 +25,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 * [Voyager Site](https://laravelvoyager.com)
 * [Voyager Repository](https://github.com/the-control-group/voyager)
 * [Voyager Documentation](https://laravelvoyager.com/docs/)
-* [Voyager on DevDojo](https://devdojo.com/series/laravel-voyager-010)
+* [Voyager on DevDojo](https://devdojo.com/series/laravel-voyager-010?ref=mark)
 * [Voyager on YouTube](https://laracasts.com/series/laravel-spark)
 * [DockerFile for Voyager](https://github.com/rushairer/Voyager-Docker)
 
@@ -37,5 +37,5 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 
 ## Articles and Tutorials
 * [Laravel News's Introduction on Laravel Voyager](https://laravel-news.com/voyager)
-* [Working with Voyager on the Front-end](https://devdojo.com/blog/tutorials/working-with-voyager-on-the-front-end)
+* [Working with Voyager on the Front-end](https://devdojo.com/blog/tutorials/working-with-voyager-on-the-front-end?ref=mark)
 * [Setup Google Analytics for Laravel Voyager](https://webman.io/blog/post/setup-google-analytics-for-laravel-voyager)
