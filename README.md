@@ -45,6 +45,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 ## Vidoes and Series
 * [Laravel Admin Package - Voyager](https://devdojo.com/episode/laravel-admin-package-voyager?ref=mark)
 * [What is Voyager - Laravel Voyager 0.10](https://devdojo.com/series/laravel-voyager-010/episode/what-is-voyager?ref=mark)
+* [Getting Started With Voyager](https://www.youtube.com/watch?v=G5UmX9aRXV4&list=PL8nVHL94VZ1_uW6pm0pCZbiN2H8oG9W0b)
 
 ## Products build with Voyager
 * [Pixel - Premium Download Script](https://devdojo.com/product/pixel?ref=mark)
