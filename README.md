@@ -20,7 +20,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
 - [Articles and Tutorials](#articles-and-tutorials)
-- [Vidoes and Series](#vidoes-and-series)
+- [Videos and Series](#videos-and-series)
 - [Products build with Voyager](#products-build-with-voyager)
 
 ## Essentials
@@ -42,7 +42,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 * [Working with Voyager on the Front-end](https://devdojo.com/blog/tutorials/working-with-voyager-on-the-front-end?ref=mark)
 * [Setup Google Analytics for Laravel Voyager](https://webman.io/blog/post/setup-google-analytics-for-laravel-voyager)
 
-## Vidoes and Series
+## Videos and Series
 * [Laravel Admin Package - Voyager](https://devdojo.com/episode/laravel-admin-package-voyager?ref=mark)
 * [What is Voyager - Laravel Voyager 0.10](https://devdojo.com/series/laravel-voyager-010/episode/what-is-voyager?ref=mark)
 * [Getting Started With Voyager](https://www.youtube.com/watch?v=G5UmX9aRXV4&list=PL8nVHL94VZ1_uW6pm0pCZbiN2H8oG9W0b)
