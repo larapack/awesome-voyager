@@ -26,6 +26,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 ## Essentials
 * [Voyager Site](https://laravelvoyager.com)
 * [Voyager Repository](https://github.com/the-control-group/voyager)
+* [Voyager Academy](https://laravelvoyager.com/academy/)
 * [Voyager Documentation](https://laravelvoyager.com/docs/)
 * [Voyager on DevDojo](https://devdojo.com/series/laravel-voyager-010?ref=mark)
 * [Voyager on YouTube](https://laracasts.com/series/laravel-spark)
