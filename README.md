@@ -42,6 +42,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 * [Laravel News's Introduction on Laravel Voyager](https://laravel-news.com/voyager)
 * [Working with Voyager on the Front-end](https://devdojo.com/blog/tutorials/working-with-voyager-on-the-front-end?ref=mark)
 * [Setup Google Analytics for Laravel Voyager](https://webman.io/blog/post/setup-google-analytics-for-laravel-voyager)
+* [Using Policies in Laravel Voyager](https://webman.io/blog/post/using-policies-in-laravel-voyager)
 
 ## Videos and Series
 * [Laravel Admin Package - Voyager](https://devdojo.com/episode/laravel-admin-package-voyager?ref=mark)
