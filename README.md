@@ -37,6 +37,12 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 
 ## Packages
 * [Voyager Hooks](https://github.com/larapack/voyager-hooks)
+* [Voyager Frontend](https://github.com/pvtl/voyager-frontend)
+* [Voyager Pages](https://github.com/pvtl/voyager-pages)
+* [Voyager Page Blocks](https://github.com/pvtl/voyager-page-blocks)
+* [Voyager Forms](https://github.com/pvtl/voyager-forms)
+* [Voyager Blog](https://github.com/pvtl/voyager-blog)
+* [Voyager Portfolio](https://github.com/pvtl/voyager-portfolio)
 
 ## Articles and Tutorials
 * [Laravel News's Introduction on Laravel Voyager](https://laravel-news.com/voyager)
