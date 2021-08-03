@@ -49,6 +49,8 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 * [Working with Voyager on the Front-end](https://devdojo.com/blog/tutorials/working-with-voyager-on-the-front-end?ref=mark)
 * [Setup Google Analytics for Laravel Voyager](https://webman.io/blog/post/setup-google-analytics-for-laravel-voyager)
 * [Using Policies in Laravel Voyager](https://webman.io/blog/post/using-policies-in-laravel-voyager)
+* [Install Jaxon Adminer on Voyager](https://www.jaxon-php.org/blog/2021/03/install-jaxon-adminer-on-voyager.html)
+* [Installer Jaxon Adminer dans Voyager (french)](https://www.jaxon-php.org/blog/2021/03/installer-jaxon-adminer-dans-voyager.html)
 
 ## Videos and Series
 * [Laravel Admin Package - Voyager](https://devdojo.com/episode/laravel-admin-package-voyager?ref=mark)
