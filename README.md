@@ -58,3 +58,6 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 ## Products build with Voyager
 * [Pixel - Premium Download Script](https://devdojo.com/product/pixel?ref=mark)
 * [GeekShop - Geeky Cool Product Site](https://devdojo.com/product/geekshop?ref=mark)
+
+## Plugin for Voyager
+* [Voyager Excel Export](https://github.com/tu6ge/voyager-excel)
