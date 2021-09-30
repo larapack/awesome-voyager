@@ -30,7 +30,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 * [Voyager Documentation](https://laravelvoyager.com/docs/)
 * [Voyager on DevDojo](https://devdojo.com/series/laravel-voyager-010?ref=mark)
 * [Voyager on YouTube](https://laracasts.com/series/laravel-spark)
-* [DockerFile for Voyager](https://github.com/alibori/awesome-voyager)
+* [DockerFile for Voyager](https://github.com/alibori/Voyager-Dockerfile)
 
 ## Code Snippets
 * [Routes for Pages BREAD](https://gist.github.com/marktopper/ad3f8048a1a7bf55a5fcc747745d92ec)
